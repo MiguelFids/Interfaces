@@ -1,0 +1,7 @@
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\bin\Debug\MoreInterfaces.exe.config
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\bin\Debug\MoreInterfaces.exe
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\bin\Debug\MoreInterfaces.pdb
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\obj\Debug\MoreInterfaces.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\obj\Debug\MoreInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\obj\Debug\MoreInterfaces.exe
+C:\Users\Miguel\source\repos\MoreInterfaces\MoreInterfaces\obj\Debug\MoreInterfaces.pdb
